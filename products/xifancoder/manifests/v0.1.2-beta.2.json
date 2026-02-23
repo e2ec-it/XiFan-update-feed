@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "1.0",
+  "product": "xifancoder",
+  "version": "v0.1.2-beta.2",
+  "channel": "beta",
+  "publishedAt": "2026-02-23T13:59:42.983Z",
+  "source": {
+    "repo": "e2ec-it/XiFan-XiFanCoder",
+    "releaseTag": "v0.1.2-beta.2",
+    "releaseUrl": "https://github.com/e2ec-it/XiFan-XiFanCoder/releases/tag/v0.1.2-beta.2",
+    "releaseNotesUrl": "https://github.com/e2ec-it/XiFan-XiFanCoder/releases/tag/v0.1.2-beta.2"
+  },
+  "compatibility": {},
+  "security": {
+    "integrityRequired": true,
+    "signatureRequired": true,
+    "signature": {
+      "algorithm": "ed25519",
+      "keyId": "xifancoder-release-key",
+      "value": "",
+      "note": "Signature value should be injected by secure publish job in update-feed repository."
+    }
+  },
+  "artifacts": []
+}
