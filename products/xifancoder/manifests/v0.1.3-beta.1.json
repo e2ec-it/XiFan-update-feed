@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1.0",
+  "product": "xifancoder",
+  "version": "v0.1.3-beta.1",
+  "channel": "beta",
+  "publishedAt": "2026-02-23T15:27:47.908Z",
+  "source": {
+    "repo": "e2ec-it/XiFan-release-distribution",
+    "releaseTag": "v0.1.3-beta.1",
+    "releaseUrl": "https://github.com/e2ec-it/XiFan-release-distribution/releases/tag/v0.1.3-beta.1",
+    "releaseNotesUrl": "https://github.com/e2ec-it/XiFan-release-distribution/releases/tag/v0.1.3-beta.1"
+  },
+  "compatibility": {},
+  "security": {
+    "integrityRequired": true,
+    "signatureRequired": true,
+    "signature": {
+      "algorithm": "ed25519",
+      "keyId": "xifancoder-release-key",
+      "value": "",
+      "note": "Signature value should be injected by secure publish job in update-feed repository."
+    }
+  },
+  "artifacts": [
+    {
+      "name": "xifancoder-install-macos-v0.1.3-beta.1.sh",
+      "platform": "darwin",
+      "arch": "universal",
+      "url": "https://github.com/e2ec-it/XiFan-release-distribution/releases/download/v0.1.3-beta.1/xifancoder-install-macos-v0.1.3-beta.1.sh",
+      "sha256": "28ce116a5be8e5408a3737088d8748d240f67128e44b29845c8835e85faf6bb9"
+    },
+    {
+      "name": "xifancoder-install-linux-v0.1.3-beta.1.sh",
+      "platform": "linux",
+      "arch": "universal",
+      "url": "https://github.com/e2ec-it/XiFan-release-distribution/releases/download/v0.1.3-beta.1/xifancoder-install-linux-v0.1.3-beta.1.sh",
+      "sha256": "521758e5a7d37c0de305145b786d54f9423f8d0555f85fae2f9806f93b3181d8"
+    },
+    {
+      "name": "xifancoder-install-windows-v0.1.3-beta.1.ps1",
+      "platform": "windows",
+      "arch": "universal",
+      "url": "https://github.com/e2ec-it/XiFan-release-distribution/releases/download/v0.1.3-beta.1/xifancoder-install-windows-v0.1.3-beta.1.ps1",
+      "sha256": "8f822edf1b154fcbfb0820db24c30c592404ca570591ae0d2653577716fbef03"
+    }
+  ]
+}
