@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "product": "xifancoder",
   "channel": "beta",
-  "latest": "v0.1.3-beta.1",
-  "manifest": "products/xifancoder/manifests/v0.1.3-beta.1.json",
-  "updatedAt": "2026-02-23T15:27:47.908Z"
+  "latest": "v0.1.3-beta.2",
+  "manifest": "products/xifancoder/manifests/v0.1.3-beta.2.json",
+  "updatedAt": "2026-02-25T05:12:18.095Z"
 }
